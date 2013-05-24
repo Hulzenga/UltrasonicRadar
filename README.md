@@ -23,4 +23,4 @@ And now overlaid ontop of the actual environment:
 This project was never done with the intent of making the code public and was done solely for educational purposes. The code is written by adding features ontop of another without any initial design or documentation. This repo then is made public solely for the educational purposes of others and to provide some guidance for people who want to write and Arduino+Android sketch/app.
 
 #licence
-Attribution 3.0 Unported (CC BY 3.0)
+Creative Commons Attribution 3.0 Unported (CC BY 3.0)
