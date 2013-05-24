@@ -5,7 +5,7 @@ Ultrasonic Radar
 #repo contents
 This repo contains two folders:
 
->├ UltrasonicRadar
+>├ UltrasonicRadar <br>
 >├ UltrasonicRadar Sketch
 
 "UltrasonicRadar" contains the Eclipse project for the Android interface app and "UltrasonicRadar sketch" contains the arduino sketch loaded onboard of the radar.
@@ -15,7 +15,7 @@ A working screenshot of the UltrasonicRadar Android app is shown below:
 
 ![GUI screenshot](/screenshot.png)
 
-And nog overlaid ontop of the actual environment:
+And now overlaid ontop of the actual environment:
 
 ![GUI measurement overlay](/screenshot_overlay.jpg)
 
